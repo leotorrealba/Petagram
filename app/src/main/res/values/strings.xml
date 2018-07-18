@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Petagram</string>
+    <string name="pnombre">PERRO</string>
+    <string name="mensaje">Click!</string>
+    <string name="menu_item">TOP 5</string>
+    <string name="lista">MASCOTAS</string>
+
+</resources>
